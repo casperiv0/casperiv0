@@ -1,4 +1,4 @@
-## CasperTheGhost
+# CasperTheGhost
 
 Hello! 👋
 
