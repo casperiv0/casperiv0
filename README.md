@@ -1,6 +1,6 @@
 # CasperTheGhost
 
-Hello! 👋
+### Hello! 👋
 
 - I'm a frontend focused web developer 💻
 - I love programming and learning
