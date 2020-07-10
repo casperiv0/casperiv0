@@ -12,7 +12,7 @@
 
 <br />
 
-![stats](https://github-readme-stats.vercel.app/api?username=dev-caspertheghost&show_icons=true)
+![stats](https://github-readme-stats.vercel.app/api?username=dev-caspertheghost&show_icons=true&hide_border=true)
 
 <br />
 
