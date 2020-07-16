@@ -2,7 +2,7 @@
 
 ### Hello! 👋
 
-- 💻 I'm a frontend focused web developer 
+- 💻 Frontend focused web developer 
 - ⚡ I love programming and learning 
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/) 
 - 📧 Contact me on email: [casper.iversen2@gmail.com](mailto:casper.iversen2@gmail.com) 
@@ -18,4 +18,8 @@
 
 <a href="https://github.com/dev-caspertheghost/react-timeline">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-caspertheghost&repo=react-timeline" />
+</a>
+
+<a href="https://github.com/dev-caspertheghost/css-statistic-dashboard">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-caspertheghost&repo=css-statistic-dashboard" />
 </a>
