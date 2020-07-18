@@ -17,9 +17,9 @@
 <br />
 
 <a href="https://github.com/dev-caspertheghost/react-timeline">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=dev-caspertheghost&repo=react-timeline&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=dev-caspertheghost&repo=react-timeline&title_color=fff&icon_color=4c71f2&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 <a href="https://github.com/dev-caspertheghost/css-statistic-dashboard">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=dev-caspertheghost&repo=css-statistic-dashboard&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin?username=dev-caspertheghost&repo=css-statistic-dashboard&title_color=fff&icon_color=4c71f2&text_color=9f9f9f&bg_color=151515" />
 </a>
