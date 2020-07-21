@@ -1,4 +1,5 @@
 # CasperTheGhost
+![age](https://img.shields.io/badge/Age-15-blue) ![from](https://img.shields.io/badge/from-belgium-red)
 
 ### Hello! 👋
 
