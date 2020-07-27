@@ -34,5 +34,5 @@
 
 <br />
 
-<h3>Most used languages</h3>
+<h3>My Most used languages</h3>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-caspertheghost&layout=compact&theme=dark" />
