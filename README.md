@@ -1,5 +1,5 @@
 # CasperTheGhost
-![age](https://img.shields.io/badge/Age-15-blue) ![from](https://img.shields.io/badge/from-belgium-red) ![twitter](https://img.shields.io/badge/-casper124578-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/casper124578)
+![age](https://img.shields.io/badge/Age-15-blue) ![from](https://img.shields.io/badge/from-belgium-red) [![twitter](https://img.shields.io/badge/-casper124578-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/casper124578)](https://twitter.com/casper124578)
 
 ### Hello! 👋
 
