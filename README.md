@@ -20,7 +20,7 @@
 
 <br />
 
-![stats](https://github-readme-stats.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=true&hide_rank=true&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)
 
 <br />
 
