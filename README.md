@@ -5,6 +5,7 @@
 
 ### Hello! 👋
 
+- 💪 Currently working on [notey.app](https://github.com/Dev-CasperTheGhost/notey.app) and [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot)
 - 💻 Frontend focused web developer 
 - ⚡ I love programming and learning 
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/) 
