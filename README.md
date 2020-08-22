@@ -48,7 +48,7 @@
 ### Firefox extensions
 
 | name                      | link                                                                   |
-| ------------------------- | ---------------------------------------------------------------------- |
+| :------------------------ | :--------------------------------------------------------------------- |
 | Styles (for gh dark mode) | <https://github.com/openstyles/stylus>                                 |
 | Colorpick eyedroper       | <https://addons.mozilla.org/en-US/firefox/addon/colorpick-eyedropper/> |
 | Decentraleyes             | <https://addons.mozilla.org/firefox/addon/decentraleyes/>              |
@@ -62,7 +62,7 @@
 ### vscode extensions
 
 | name                                          | link                                                                                         |
-| --------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| :-------------------------------------------- | :------------------------------------------------------------------------------------------- |
 | Auto rename tag                               | <https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag>          |
 | better comments                               | <https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments>             |
 | Bracket par colorizer                         | <https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer>       |
