@@ -20,17 +20,17 @@
 
 <br />
 
-![stats](https://github-readme-stats-nu-green.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=fff&text_color=9f9f9f&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)
+![stats](https://github-readme-stats-nu-green.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)
 
 <br />
 
 <h1>Popular Repo's</h1>
 <a href="https://github.com/dev-caspertheghost/react-timeline">
-  <img align="center" src="https://github-readme-stats-nu-green.vercel.app/api/pin?username=dev-caspertheghost&repo=react-timeline&title_color=fff&icon_color=4c71f2&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats-nu-green.vercel.app/api/pin?username=dev-caspertheghost&repo=react-timeline&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=151515" />
 </a>
 
 <a href="https://github.com/dev-caspertheghost/ghostybot">
-  <img align="center" src="https://github-readme-stats-nu-green.vercel.app/api/pin?username=dev-caspertheghost&repo=ghostybot&title_color=fff&icon_color=4c71f2&text_color=9f9f9f&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats-nu-green.vercel.app/api/pin?username=dev-caspertheghost&repo=ghostybot&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=151515" />
 </a>
 
 <br />
