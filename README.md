@@ -20,7 +20,7 @@
 
 <br />
 
-![stats](https://github-readme-stats-nu-green.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)
+[![stats](https://github-readme-stats-nu-green.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
