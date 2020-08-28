@@ -45,7 +45,24 @@
 <details align="left">
   <summary>More info</summary>
 
-### Firefox extensions
+<details>
+  
+  
+  <summary>Other apps</summary>
+
+| name                      | link                                                                   |
+| :------------------------ | :--------------------------------------------------------------------- |
+| Windows terminal          | <https://github.com/microsoft/terminal>                                |
+| Windows Powertoys    | <https://github.com/microsoft/powertoys> |
+| Visual studio code     | <https://code.visualstudio.com>              |
+| Figma         | <https://figma.com>    |
+| Postman         | <https://postman.com>                                               |
+| Discord        | <https://discord.com>                                           |
+</details>
+
+
+<details>
+  <summary>Firefox Extensions</summary>
 
 | name                      | link                                                                   |
 | :------------------------ | :--------------------------------------------------------------------- |
@@ -58,8 +75,10 @@
 | github-vscode-icons       | <https://github.com/dderevjanik/github-vscode-icons>                   |
 | React Developer Tools     | <https://addons.mozilla.org/en-US/firefox/addon/react-devtools/>       |
 | Redux DevTools            | <https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/>        |
+</details>
 
-### vscode extensions
+<details>
+  <summary>Visual studio code Extensions</summary>
 
 | name                                          | link                                                                                         |
 | :-------------------------------------------- | :------------------------------------------------------------------------------------------- |
@@ -87,5 +106,6 @@
 | Rest Client                                   | <https://marketplace.visualstudio.com/items?itemName=humao.rest-client>                      |
 | Simple React Snippets                         | <https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets>     |
 | WakaTime                                      | <https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime>               |
+</details>
 
 </details>
