@@ -35,7 +35,7 @@
 
 <br />
 
-<h1>My Most used languages</h1>
+<h1>My most used languages</h1>
 <img src="https://github-readme-stats-nu-green.vercel.app/api/top-langs/?username=dev-caspertheghost&layout=compact&theme=dark&hide=lua,dart&hide_title=true" />
 
 <br />
