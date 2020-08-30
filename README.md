@@ -58,7 +58,7 @@
 | Figma         | <https://figma.com>    |
 | Postman         | <https://postman.com>                                               |
 | Discord        | <https://discord.com>                                           |
-</details>
+</details> 
 
 
 <details>
