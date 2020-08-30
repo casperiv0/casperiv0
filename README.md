@@ -2,7 +2,7 @@
 
 ![age](https://img.shields.io/badge/Age-15-blue?style=for-the-badge) ![from](https://img.shields.io/badge/from-belgium-red?style=for-the-badge) [![twitter](https://img.shields.io/badge/-casper124578-1DA1F2?logo=Twitter&logoColor=white&link=https://twitter.com/casper124578&style=for-the-badge)](https://twitter.com/casper124578)
 
-### Hello! 👋
+## Hello! 👋
 
 - 💪 Currently working on [notey.app](https://github.com/Dev-CasperTheGhost/notey.app) and [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot)
 - 💻 Frontend focused web developer
