@@ -20,23 +20,23 @@
 
 <br />
 
-[![stats](https://github-readme-stats-nu-green.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
 <h1>Popular Repo's</h1>
 <a href="https://github.com/notey-app/notey.app">
-  <img align="center" src="https://github-readme-stats-nu-green.vercel.app/api/pin?username=notey-app&repo=notey.app&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats-6r6chiwoo.vercel.app/api/pin?username=notey-app&repo=notey.app&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=151515" />
 </a>
 
 <a href="https://github.com/dev-caspertheghost/ghostybot">
-  <img align="center" src="https://github-readme-stats-nu-green.vercel.app/api/pin?username=dev-caspertheghost&repo=ghostybot&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=151515" />
+  <img align="center" src="https://github-readme-stats-6r6chiwoo.vercel.app/api/pin?username=dev-caspertheghost&repo=ghostybot&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=151515" />
 </a>
 
 <br />
 
 <h1>My most used languages</h1>
-<img src="https://github-readme-stats-nu-green.vercel.app/api/top-langs/?username=dev-caspertheghost&layout=compact&theme=dark&hide=lua,dart&hide_title=true" />
+<img src="https://github-readme-stats-6r6chiwoo.vercel.app/api/top-langs/?username=dev-caspertheghost&layout=compact&theme=dark&hide=lua,dart&hide_title=true" />
 
 <br />
 
