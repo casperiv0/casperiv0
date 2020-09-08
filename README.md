@@ -11,12 +11,20 @@
 - 📧 Contact me on email: [casper.iversen2@gmail.com](mailto:casper.iversen2@gmail.com)
 - 📦 My biggest project so far: [SnailyCADv2](https://github.com/Dev-CasperTheGhost/snaily-cadv2)
 - 🏫 Currently learning TypeScript, more advanced JavaScript, React and design(in school)
-- 🌱 Top skills:
+
+## skills and tools
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/html/html.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg"></code>
+   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></code>
+ <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
+  <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+  <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
 
 <br />
 
