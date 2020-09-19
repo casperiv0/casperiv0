@@ -33,8 +33,8 @@
 <br />
 
 <h1>Popular Repo's</h1>
-<a href="https://github.com/notey-app/notey.app">
-  <img align="center" src="https://github-readme-stats-6r6chiwoo.vercel.app/api/pin?username=notey-app&repo=notey.app&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=151515" />
+<a href="https://github.com/dev-caspertheghost/notey.app">
+  <img align="center" src="https://github-readme-stats-6r6chiwoo.vercel.app/api/pin?username=dev-caspertheghost&repo=notey.app&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=151515" />
 </a>
 
 <a href="https://github.com/dev-caspertheghost/ghostybot">
