@@ -1,51 +1,54 @@
 [![banner](https://raw.githubusercontent.com/Dev-CasperTheGhost/Dev-CasperTheGhost/master/images/BannerImg.svg)](https://caspertheghost.me)
 
-![age](https://img.shields.io/badge/Age-15-blue?style=for-the-badge) ![from](https://img.shields.io/badge/from-belgium-red?style=for-the-badge) [![twitter](https://img.shields.io/badge/-casper124578-1DA1F2?logo=Twitter&logoColor=white&link=https://twitter.com/casper124578&style=for-the-badge)](https://twitter.com/casper124578)
+[![location](./images/location.svg)](https://www.google.com/maps/place/Ghent/)
+[![twitter](./images/twitter.svg)](https://twitter.com/casper124578)
+[![gmail](./images/gmail.svg)](mailto:casper.iversen2@gmail.com)
 
 ## Hello! 👋
 
-- 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot)
-- 💻 Frontend focused web developer
-- ⚡ I love programming and learning
+- 💻 I'm a frontend focused web developer
+- ⚡ I love programming, learning and math
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
-- 📧 Contact me on email: [casper.iversen2@gmail.com](mailto:casper.iversen2@gmail.com)
+- 🌱 Currently learning TypeScript, more advanced JavaScript, React and design(in school)
+- 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot)
 - 📦 My biggest project so far: [SnailyCADv2](https://github.com/Dev-CasperTheGhost/snaily-cadv2)
-- 🏫 Currently learning TypeScript, more advanced JavaScript, React and design(in school)
 
 ## skills and tools
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg"></code>
-   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></code>
- <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
-  <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
-  <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-plain.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+<code><img height="30" src="./images/do_logo.svg"></code>
 
 <br />
 
-[![stats](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=dev-caspertheghost&hide_border=true&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)
+[![stats](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=dev-caspertheghost&hide_border=true&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=181818&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)
 
 <br />
 
 <h1>Popular Repo's</h1>
 <a href="https://github.com/dev-caspertheghost/notey.app">
-  <img align="center" src="https://github-readme-stats-6r6chiwoo.vercel.app/api/pin?username=dev-caspertheghost&repo=notey.app&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=151515&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-6r6chiwoo.vercel.app/api/pin?username=dev-caspertheghost&repo=notey.app&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=181818&hide_border=true" />
 </a>
 
 <a href="https://github.com/dev-caspertheghost/ghostybot">
-  <img align="center" src="https://github-readme-stats-6r6chiwoo.vercel.app/api/pin?username=dev-caspertheghost&repo=ghostybot&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=151515&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-6r6chiwoo.vercel.app/api/pin?username=dev-caspertheghost&repo=ghostybot&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=181818&hide_border=true" />
 </a>
 
 <br />
 
 <h1>My most used languages</h1>
-<img src="https://github-readme-stats-6r6chiwoo.vercel.app/api/top-langs/?username=dev-caspertheghost&layout=compact&theme=dark&hide=lua,dart&hide_title=true&hide_border=true" />
+<img src="https://github-readme-stats-6r6chiwoo.vercel.app/api/top-langs/?username=dev-caspertheghost&layout=compact&theme=dark&bg_color=181818&hide=lua,dart&hide_title=true&hide_border=true" />
 
 <br />
 
@@ -59,16 +62,16 @@
   
   <summary>Other apps</summary>
 
-| name                      | link                                                                   |
-| :------------------------ | :--------------------------------------------------------------------- |
-| Windows terminal          | <https://github.com/microsoft/terminal>                                |
-| Windows Powertoys    | <https://github.com/microsoft/powertoys> |
-| Visual studio code     | <https://code.visualstudio.com>              |
-| Figma         | <https://figma.com>    |
-| Postman         | <https://postman.com>                                               |
-| Discord        | <https://discord.com>                                           |
-</details> 
+| name               | link                                     |
+| :----------------- | :--------------------------------------- |
+| Windows terminal   | <https://github.com/microsoft/terminal>  |
+| Windows Powertoys  | <https://github.com/microsoft/powertoys> |
+| Visual studio code | <https://code.visualstudio.com>          |
+| Figma              | <https://figma.com>                      |
+| Postman            | <https://postman.com>                    |
+| Discord            | <https://discord.com>                    |
 
+</details>
 
 <details>
   <summary>Firefox Extensions</summary>
@@ -84,6 +87,7 @@
 | github-vscode-icons       | <https://github.com/dderevjanik/github-vscode-icons>                   |
 | React Developer Tools     | <https://addons.mozilla.org/en-US/firefox/addon/react-devtools/>       |
 | Redux DevTools            | <https://addons.mozilla.org/en-US/firefox/addon/reduxdevtools/>        |
+
 </details>
 
 <details>
@@ -115,6 +119,7 @@
 | Rest Client                                   | <https://marketplace.visualstudio.com/items?itemName=humao.rest-client>                      |
 | Simple React Snippets                         | <https://marketplace.visualstudio.com/items?itemName=burkeholland.simple-react-snippets>     |
 | WakaTime                                      | <https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime>               |
+
 </details>
 
 </details>
