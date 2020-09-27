@@ -1,4 +1,4 @@
-[![banner](https://raw.githubusercontent.com/Dev-CasperTheGhost/Dev-CasperTheGhost/master/images/BannerImg.svg)](https://caspertheghost.me)
+[![banner](./images/BannerImg.svg)](https://caspertheghost.me)
 
 [![location](./images/location.svg)](https://www.google.com/maps/place/Ghent/)
 [![portfolio](./images/portfolio.svg)](https://caspertheghost.me)
