@@ -9,7 +9,7 @@
 
 - 💻 I'm a frontend focused web developer
 - ⚡ I love programming, learning and math
-- 🌱 Currently learning TypeScript, more advanced JavaScript, React and design(in school)
+- 🌱 Currently learning NextJS, TypeScript and design(in school)
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
 - 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot)
 - 📦 My biggest project so far: [SnailyCADv2](https://github.com/Dev-CasperTheGhost/snaily-cadv2)
