@@ -33,10 +33,6 @@
 
 <br />
 
-[![stats](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=dev-caspertheghost&hide_border=true&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=181818&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)](https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=dev-caspertheghost&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=151515&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true)
-
-<br />
-
 <h1>Popular Repo's</h1>
 <a href="https://github.com/dev-caspertheghost/notey.app">
   <img align="center" src="https://github-readme-stats-6r6chiwoo.vercel.app/api/pin?username=dev-caspertheghost&repo=notey.app&title_color=ddd&icon_color=4c71f2&text_color=bbb&bg_color=181818&hide_border=true" />
@@ -47,9 +43,16 @@
 </a>
 
 <br />
+<div>
 
-<h1>My most used languages</h1>
-<img src="https://github-readme-stats-6r6chiwoo.vercel.app/api/top-langs/?username=dev-caspertheghost&layout=compact&theme=dark&bg_color=181818&hide=lua,dart&hide_title=true&hide_border=true" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats-6r6chiwoo.vercel.app/api/?username=dev-caspertheghost&hide_border=true&show_owner=false&show_icons=true&title_color=ddd&text_color=bbb&bg_color=181818&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true" alt="Github Stats" />
+</a>
+
+ <img src="https://github-readme-stats-6r6chiwoo.vercel.app/api/top-langs/?username=dev-caspertheghost&theme=dark&bg_color=181818&hide=lua,dart&hide_title=true&hide_border=true" />
+
+</div>
+
 
 <br />
 
