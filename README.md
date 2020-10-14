@@ -1,10 +1,5 @@
 [![banner](./images/BannerImg.svg)](https://caspertheghost.me)
 
-[![location](./images/location.svg)](https://www.google.com/maps/place/Ghent/)
-[![portfolio](./images/portfolio.svg)](https://caspertheghost.me)
-[![twitter](./images/twitter.svg)](https://twitter.com/casper124578)
-[![gmail](./images/gmail.svg)](mailto:casper.iversen2@gmail.com)
-
 ## Hello! 👋
 
 - 💻 I'm a frontend focused web developer
