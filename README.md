@@ -25,3 +25,15 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
 <code><img height="30" src="./images/do_logo.svg"></code>
+
+
+<details open>
+  <summary>stats</summary>
+  
+  
+  ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true)
+  
+  ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua)
+  
+
+ </details>
