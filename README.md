@@ -27,7 +27,7 @@
 <code><img height="30" src="./images/do_logo.svg"></code>
 
 
-<details open>
+<details>
   <summary>stats</summary>
   
   
