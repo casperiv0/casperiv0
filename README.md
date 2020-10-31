@@ -31,7 +31,7 @@
   <summary>stats</summary>
   
   
-  ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true)
+  ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&icon_color=CBD6E3&text_color=CBD6E3)
   
   ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua)
   
