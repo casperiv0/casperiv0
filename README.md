@@ -35,5 +35,6 @@
   
   ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua)
   
+  ![wakatime](https://github-readme-stats-wa3h-avpqzc69j.vercel.app/api/wakatime?username=devcaspertheghost&layout=compact&theme=dark&langs_count=5)
 
  </details>
