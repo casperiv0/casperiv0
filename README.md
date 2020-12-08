@@ -31,10 +31,10 @@
   <summary>stats</summary>
   
   
-  ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&icon_color=CBD6E3&text_color=CBD6E3)
+  ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=Dev-CasperTheGhost&bg_color=0D1117&include_all_commits=true&count_private=true&show_icons=true&hide_rank=true&icon_color=6381AF&text_color=f2f2f2&hide_title=true)
   
-  ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua)
+  ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua&bg_color=0D1117)
   
-  ![wakatime](https://github-readme-stats-wa3h-avpqzc69j.vercel.app/api/wakatime?username=devcaspertheghost&layout=compact&theme=dark&langs_count=5)
+  ![wakatime](https://github-readme-stats-wa3h-avpqzc69j.vercel.app/api/wakatime?username=devcaspertheghost&layout=compact&theme=dark&langs_count=5&bg_color=0D1117)
 
  </details>
