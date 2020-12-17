@@ -1,4 +1,5 @@
-[![banner](./images/BannerImg.svg)](https://caspertheghost.me)
+[![banner](./images/banner-christmas.svg)](https://caspertheghost.me)
+_Decoration images from google.com_
 
 ## Hello! 👋
 
@@ -25,7 +26,6 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
 <code><img height="30" src="./images/do_logo.svg"></code>
-
 
 <details>
   <summary>stats</summary>
