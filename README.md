@@ -31,7 +31,7 @@ _Decoration images from google.com_
   <summary>stats</summary>
   
   
-  ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=Dev-CasperTheGhost&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true)
+  ![stats](https://github-readme-stats-eight-gamma.vercel.app/api?username=Dev-CasperTheGhost&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
   
   ![langs](https://github-readme-stats-eight-gamma.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&hide=lua&bg_color=00000000)
   
