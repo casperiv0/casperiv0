@@ -1,5 +1,4 @@
 [![banner](./images/BannerImg.svg)](https://caspertheghost.me)
-_Decoration images from google.com_
 
 ## Hello! 👋
 
