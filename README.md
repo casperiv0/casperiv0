@@ -4,7 +4,7 @@
 
 - 💻 I'm a frontend focused web developer
 - ⚡️Fast learner
-- ⚡ I love programming, learning and math
+- 🤟 I love programming, learning and math
 - 🌱 Currently learning NextJS, TypeScript and design(in school)
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
 - 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot) and [zyndicate.app](https://zyndicate.app)
