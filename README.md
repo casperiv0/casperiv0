@@ -5,9 +5,9 @@
 - 💻 I'm a frontend focused web developer
 - ⚡️Fast learner
 - 🤟 I love programming, learning and math
-- 🌱 Currently learning NextJS, TypeScript and design(in school)
+- 🌱 Currently learning GraphQL and design(in school)
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
-- 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot) and [zyndicate.app](https://zyndicate.app)
+- 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot), [zyndicate.app](https://zyndicate.app) and [SnailyCADv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
 - 📦 My biggest project so far: [SnailyCADv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
 
 ## skills and tools
