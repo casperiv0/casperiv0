@@ -9,6 +9,7 @@
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
 - 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot), [zyndicate.app](https://zyndicate.app), [notey.app](https://notey.caspertheghost.me) and [SnailyCADv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
 - 📦 My biggest project so far: [SnailyCADv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
+- My URL shortener: [ctgs.ga](https://www.ctgs.ga)
 
 ## skills and tools
 
