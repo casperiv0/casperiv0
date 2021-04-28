@@ -2,12 +2,13 @@
 
 ## Hello! 👋
 
-- 💻 I'm a frontend focused web developer
+- 💻 I'm a frontend-focused, multi-faceted web developer
 - ⚡️Fast learner
-- 🤟 I love programming, learning and math
+- 🤟 I love programming, learning, and math
 - 🌱 Currently learning GraphQL and design(in school)
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
-- 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot), [zyndicate.app](https://zyndicate.app), [notey.app](https://notey.caspertheghost.me) and [SnailyCADv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
+- 🚀 Engineer @ [zyndicate.app](https://zyndicate.app)
+- 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot), [notey.app](https://notey.caspertheghost.me) and [SnailyCADv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
 - 📦 My biggest project so far: [SnailyCADv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
 - My URL shortener: [ctgs.ga](https://www.ctgs.ga)
 
