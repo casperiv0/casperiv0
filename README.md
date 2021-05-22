@@ -30,6 +30,8 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
 <code><img height="30" src="./images/do_logo.svg"></code>
 
+_This is not a full list of my skills. I'm also open to learn more frontend skills!_
+
 <details>
   <summary>stats</summary>
   
