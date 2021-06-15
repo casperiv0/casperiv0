@@ -32,6 +32,7 @@
 
 _This is not a full list of my skills. I'm also open to learn more frontend skills!_
 
+<!--
 <details>
   <summary>stats</summary>
   
@@ -43,3 +44,4 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
   [![wakatime](https://github-readme-stats-wine-rho.vercel.app/api/wakatime?username=devcaspertheghost&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@devcaspertheghost)
 
  </details>
+-->
