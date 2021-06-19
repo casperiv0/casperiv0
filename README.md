@@ -32,16 +32,17 @@
 
 _This is not a full list of my skills. I'm also open to learn more frontend skills!_
 
-<!--
 <details>
   <summary>stats</summary>
   
   
-  ![stats](https://github-readme-stats-p6tiie5g2-dev-caspertheghost.vercel.app/api?username=Dev-CasperTheGhost&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
+  ![stats](https://github-readme-stats-drab-iota-53.vercel.app/api?username=Dev-CasperTheGhost&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
   
-  ![langs](https://github-readme-stats-p6tiie5g2-dev-caspertheghost.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
+  ![langs](https://github-readme-stats-drab-iota-53.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
   
-  [![wakatime](https://github-readme-stats-wine-rho.vercel.app/api/wakatime?username=devcaspertheghost&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@devcaspertheghost)
+  _(Wakatime stats of all time)_
+  
+  [![wakatime](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=devcaspertheghost&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@devcaspertheghost)
 
  </details>
--->
+
