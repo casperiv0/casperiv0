@@ -45,7 +45,5 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
   
   [![wakatime](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=devcaspertheghost&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@devcaspertheghost)
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dev-caspertheghost&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
  </details>
 
