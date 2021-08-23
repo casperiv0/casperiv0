@@ -37,9 +37,9 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
   <summary>stats</summary>
   
   
-  ![stats](https://github-readme-stats-drab-iota-53.vercel.app/api?username=Dev-CasperTheGhost&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
+  ![stats](https://stats.caspertheghost.me/stats?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2)
   
-  ![langs](https://github-readme-stats-drab-iota-53.vercel.app/api/top-langs?username=Dev-CasperTheGhost&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
+  ![langs](https://stats.caspertheghost.me/top-langs?theme=dark&bgColor=00000000&titleColor=ffffff&textColor=ffffff&borderColor=e4e2e2)
   
   _(Wakatime stats of all time)_
   
