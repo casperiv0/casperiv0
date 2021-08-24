@@ -36,6 +36,8 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
 <details>
   <summary>stats</summary>
   
+  ![](https://komarev.com/ghpvc/?username=dev-caspertheghost&label=PROFILE+VIEWS)
+  
   
   ![stats](https://stats.caspertheghost.me/stats?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&v=2)
   
