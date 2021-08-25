@@ -39,9 +39,9 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
   ![](https://komarev.com/ghpvc/?username=dev-caspertheghost&label=PROFILE+VIEWS)
   
   
-  ![stats](https://stats.caspertheghost.me/stats?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&v=2)
+  ![stats](https://stats.caspertheghost.me/stats?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&v=3)
   
-  ![langs](https://stats.caspertheghost.me/top-langs?theme=dark&bgColor=00000000&titleColor=ffffff&textColor=ffffff&borderColor=e4e2e2&hide=lua)
+  ![langs](https://stats.caspertheghost.me/top-langs?theme=dark&bgColor=00000000&titleColor=ffffff&textColor=ffffff&borderColor=e4e2e2&hide=lua&v=2)
   
   _(Wakatime stats since August 21, 2020)_
   
