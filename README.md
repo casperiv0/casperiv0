@@ -43,9 +43,10 @@ _This is not a full list of my skills. I'm also open to learn more frontend skil
   
   ![langs](https://stats.caspertheghost.me/top-langs?theme=dark&bgColor=00000000&titleColor=ffffff&textColor=ffffff&borderColor=e4e2e2&hide=lua&v=2)
   
-  _(Wakatime stats since August 21, 2020)_
+ <!--
+      _(Wakatime stats since August 21, 2020)_
   
   [![wakatime](https://stats.caspertheghost.me/wakatime?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&count=5&titleColor=f2f2f2)](https://wakatime.com/devcaspertheghost)
-  
+ --> 
  </details>
 
