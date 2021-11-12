@@ -8,7 +8,7 @@
 - 🌱 Currently learning remix.run and advanced topics in web dev.
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
 - 🔴 You can [find me on npmjs here](https://npmjs.com/~casper124578)
-- 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot), [zyndicate.app](https://zyndicate.app), [notey.app](https://notey.caspertheghost.me), [home-inventory](https://github.com/Dev-CasperTheGhost/home-inventory) and [SnailyCADv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
+- 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot), [zyndicate.app](https://zyndicate.app), [notey.app](https://notey.caspertheghost.me), [home-inventory](https://github.com/Dev-CasperTheGhost/home-inventory) and [SnailyCADv4](https://github.com/SnailyCAD/snaily-cadv4)
 - 📦 My biggest project so far: [home-inventory](https://github.com/Dev-CasperTheGhost/home-inventory)
 - My URL shortener: [ctgs.xyz](https://www.ctgs.xyz)
 
