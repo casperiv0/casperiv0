@@ -5,7 +5,7 @@
 - 💻 I'm a frontend focused web developer (going for Fullstack :D)
 - ⚡️Fast learner
 - 🤟 I love programming, learning and math
-- 🌱 Currently learning advanced topics in web dev.
+- 🌱 Currently learning remix.run and advanced topics in web dev.
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
 - 🔴 You can [find me on npmjs here](https://npmjs.com/~casper124578)
 - 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot), [zyndicate.app](https://zyndicate.app), [notey.app](https://notey.caspertheghost.me), [home-inventory](https://github.com/Dev-CasperTheGhost/home-inventory) and [SnailyCADv3](https://github.com/Dev-CasperTheGhost/snaily-cadv3)
