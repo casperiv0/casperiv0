@@ -7,10 +7,10 @@
 - 🤟 I adore programming, learning and *numbers*.
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
 - 💪 Currently working on [ghostybot](https://github.com/Dev-CasperTheGhost/ghostybot), [notey.app](https://notey.caspertheghost.me) and [SnailyCADv4](https://github.com/SnailyCAD/snaily-cadv4)
-- 📦 My biggest project so far: [SnailyCADv4](https://github.com/SnailyCAD/snaily-cadv4)
+- 📦 My largest project so far: [SnailyCADv4](https://github.com/SnailyCAD/snaily-cadv4)
 
 
-## skills and tools
+### Skills and tools
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
