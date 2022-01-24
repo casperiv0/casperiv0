@@ -26,6 +26,7 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg"></code>
 <code><img height="30" src="./images/do_logo.svg"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/17475736?s=200&v=4" /> </code>
 
