@@ -6,7 +6,7 @@
 - ⚡️Fast learner
 - 🤟 I adore programming, learning and *numbers*.
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
-- 💪 Currently working on [notey.app](https://notey.caspertheghost.me) and [SnailyCADv4](https://github.com/SnailyCAD/snaily-cadv4)
+- 💪 Currently working on [notey.app](https://notey.caspertheghost.me) and [SnailyCADv4](https://snailycad.caspertheghost.me/)
 - 📦 My largest project so far: [SnailyCADv4](https://github.com/SnailyCAD/snaily-cadv4)
 
 
