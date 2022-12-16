@@ -2,7 +2,7 @@
 
 ## Hello! 👋
 
-- 💻 I'm a frontend focused web developer (going for Fullstack :D)
+- 💻 I'm a frontend focused web developer
 - ⚡️Fast learner
 - 🤟 I adore programming, learning and *numbers*.
 - 🌐 View my portfolio: [caspertheghost.me](https://caspertheghost.me/)
