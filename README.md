@@ -31,26 +31,6 @@
 
 _This is not a full list of my skills. I'm also open to learn more frontend skills!_
 
-
-  
-  ![](https://komarev.com/ghpvc/?username=dev-caspertheghost&label=PROFILE+VIEWS)
-      [![wakatime](https://wakatime.com/badge/user/eab8442b-396c-4b76-898b-19820eeed70e.svg)](https://wakatime.com/@eab8442b-396c-4b76-898b-19820eeed70e)
+![](https://komarev.com/ghpvc/?username=dev-caspertheghost&label=PROFILE+VIEWS)
+[![wakatime](https://wakatime.com/badge/user/eab8442b-396c-4b76-898b-19820eeed70e.svg)](https://wakatime.com/@eab8442b-396c-4b76-898b-19820eeed70e)
       
-<!--
-    <details>
-  <summary>stats</summary>
-
-
-  
-  
-  [![stats](https://stats.caspertheghost.me/stats?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&v=2)](https://stats.caspertheghost.me/stats)
-  
- [![langs](https://stats.caspertheghost.me/top-langs?theme=dark&bgColor=00000000&titleColor=ffffff&textColor=ffffff&borderColor=e4e2e2&hide=shell,lua&v=2)](https://stats.caspertheghost.me/top-langs)
-  
-  
-  [![wakatime](https://stats.caspertheghost.me/wakatime?bgColor=00000000&iconColor=6381AF&textColor=f2f2f2&borderColor=e4e2e2&count=13&titleColor=f2f2f2)](https://wakatime.com/@eab8442b-396c-4b76-898b-19820eeed70e)
-    
-
- 
- </details>    -->
-
