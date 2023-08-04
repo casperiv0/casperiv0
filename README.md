@@ -6,7 +6,7 @@
 - ⚡️Fast learner
 - 🤟 I adore programming, learning and *numbers*.
 - 🌐 View my portfolio: [casperiv.dev](https://casperiv.dev)
-- 💪 Currently working on [SnailyCADv4](https://snailycad.caspertheghost.me/)
+- 💪 Currently working on [SnailyCADv4](https://snailycad.org)
 
 
 ### Skills and tools
