@@ -3,9 +3,8 @@
 ##
 
 
-I'm a highly motivated developer and student from Belgium. I adore building accessible, responsive and performant code. Furthermore, I'm also a huge fan of open-source.
-
-I have been building web apps for almost 5 years and absolutely love it. Learning something new every week. Currently focused on Frontend Web Development and a bit of Web Design.
+I'm a passionate software engineer based in Belgium, driven to craft accessible, responsive, and high-performance code.
+I've been immersed in web development for about 5 years and constantly exploring endless learning opportunities and challenging myself to grow.
 
 ![](https://komarev.com/ghpvc/?username=dev-caspertheghost&label=PROFILE+VIEWS)
 [![wakatime](https://wakatime.com/badge/user/eab8442b-396c-4b76-898b-19820eeed70e.svg)](https://wakatime.com/@eab8442b-396c-4b76-898b-19820eeed70e)
