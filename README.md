@@ -12,6 +12,6 @@ I've been immersed in web development for about 5 years and constantly exploring
 ## 
 
 <p align="center">
-<a href="https://casperiv.dev">website</a> － <a href="https://snailycad.org">SnailyCAD</a> － <a href="https://twitter.com/casperiv0">Twitter</a> － <a href="https://linkedin.com/in/casper-iversen">LinkedIn</a>
+<a href="https://casperiv.dev">website</a> － <a href="https://snailycad.org">SnailyCAD</a> － <a href="https://linkedin.com/in/casper-iversen">LinkedIn</a>
 </p>
 
